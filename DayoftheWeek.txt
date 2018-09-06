@@ -1,0 +1,161 @@
+Enter the century (first two digits of desired year)
+20
+Enter the last two digits of the year
+08
+
+Enter the number of the month
+5
+
+Enter the day of the month
+17
+The day of the week is:
+
+Saturday
+
+--------------------------------
+Process exited after 54.05 seconds with return value 0
+Press any key to continue . . .
+*****************************************************************
+Enter the century (first two digits of desired year)
+20
+Enter the last two digits of the year
+08
+
+Enter the number of the month
+10
+
+Enter the day of the month
+5
+The day of the week is:
+
+Sunday
+
+--------------------------------
+Process exited after 6.415 seconds with return value 0
+Press any key to continue . . .
+******************************************************************
+Enter the century (first two digits of desired year)
+20
+Enter the last two digits of the year
+08
+
+Enter the number of the month
+9
+
+Enter the day of the month
+15
+The day of the week is:
+
+Monday
+
+--------------------------------
+Process exited after 54.87 seconds with return value 0
+Press any key to continue . . .
+******************************************************************
+Enter the century (first two digits of desired year)
+20
+Enter the last two digits of the year
+08
+
+Enter the number of the month
+8
+
+Enter the day of the month
+5
+The day of the week is:
+
+Tuesday
+
+--------------------------------
+Process exited after 124.7 seconds with return value 0
+Press any key to continue . . .
+****************************************************************
+Enter the century (first two digits of desired year)
+20
+Enter the last two digits of the year
+06
+
+Enter the number of the month
+9
+
+Enter the day of the month
+13
+The day of the week is:
+
+Wednesday
+
+--------------------------------
+Process exited after 69.17 seconds with return value 0
+Press any key to continue . . .
+****************************************************************
+Enter the century (first two digits of desired year)
+20
+Enter the last two digits of the year
+08
+
+Enter the number of the month
+13
+
+Enter the day of the month
+1
+The day of the week is:
+
+Thursday
+
+--------------------------------
+Process exited after 61.03 seconds with return value 0
+Press any key to continue . . .
+****************************************************************
+Enter the century (first two digits of desired year)
+20
+Enter the last two digits of the year
+08
+
+Enter the number of the month
+14
+
+Enter the day of the month
+6
+The day of the week is:
+
+Friday
+
+--------------------------------
+Process exited after 30.52 seconds with return value 0
+Press any key to continue . . .
+****************************************************************
+Enter the century (first two digits of desired year)
+19
+Enter the last two digits of the year
+99
+
+Enter the number of the month
+13
+
+Enter the day of the month
+10
+The day of the week is:
+
+Monday
+
+--------------------------------
+Process exited after 26.61 seconds with return value 0
+Press any key to continue . . .
+****************************************************************
+Enter the century (first two digits of desired year)
+19
+Enter the last two digits of the year
+97
+
+Enter the number of the month
+12
+
+Enter the day of the month
+18
+The day of the week is:
+
+Thursday
+
+--------------------------------
+Process exited after 9.561 seconds with return value 0
+Press any key to continue . . .
